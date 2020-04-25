@@ -26,8 +26,8 @@ Anaconda, Jupyter Notebook
 
 The analysis include the following and results are shown in tables:
 
-- The school district's key metircs
-- Per School key metrics summary key metrics
+- School District Summary key metircs
+- Per School Summary key metrics
   - Total Student Number
   - Total School number
   - Total Budget. 
