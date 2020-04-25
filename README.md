@@ -26,7 +26,8 @@ Anaconda, Jupyter Notebook
 
 The analysis include the following and results are shown in tables:
 
-- The school district's key metircs include:
+- The school district's key metircs
+- Per School key metrics summary key metrics
   - Total Student Number
   - Total School number
   - Total Budget. 
@@ -35,7 +36,7 @@ The analysis include the following and results are shown in tables:
   - % Passing Math
   - % Passing Reading
   - % Overall Passing
-- Per School key metrics summary
+
 - Top five and bottom five school performence.
 - Average Math and Reading Score by Grade.
 - Scores by School Spending per student
@@ -63,3 +64,40 @@ After replacing Thomas High School 9th grade reading and math scores with NaN, t
   - % Overall Passing changes from 65% to 64% 
 
 2. Per School summary
+
+  - Average Math Score changes from 79.0 to 78.9
+  - Average reading Score is consistant at 81.9
+  - % Passing Math changes from 75% to 74%
+  - % Passing Reading changes from 86% to 85%
+  - % Overall Passing changes from 65% to 64% 
+  
+3. Thomas High School’s % Overall Passing, relative to the other schools changes from #2 to #8.
+
+4. Math and Reading Scores by Grade
+  - Thomas High School 9th grade Math and Reading scores are changed to NaN.
+  
+5. Scores by School Spending per studen
+   Thomas High School Spending is in $630 -$644 category. In this category:
+  - Average Math Score does not change
+  - Average reading Score does not change 
+  - % Passing Math changes from 73% to 67%
+  - % Passing Reading changes from 84% to 77%
+  - % Overall Passing changes from 63% to 56%
+
+6. Scores by School Size
+   Thomas High School is medium size (1000 - 2000). In this category:
+   
+  - Average Math Score does not change
+  - Average reading Score does not change 
+  - % Passing Math changes from 94% to 88%
+  - % Passing Reading changes from 97% to 91%
+  - % Overall Passing changes from 91% to 85%
+
+7. Scores by School Type
+   Thomas High School is a Charter School. Charter School performence:
+
+  - Average Math Score does not change
+  - Average reading Score does not change 
+  - % Passing Math changes from 94% to 90%
+  - % Passing Reading changes from 97% to 93%
+  - % Overall Passing changes from 90% to 87%
