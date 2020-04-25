@@ -38,7 +38,8 @@ The analysis include the following and results are shown in tables:
   - % Overall Passing
 
 - Top five and bottom five school performence.
-- Average Math and Reading Score by Grade.
+- Average Math Score by Grade
+- Average Reading Score by Grade.
 - Scores by School Spending per student
 - Scores by School Size
 - Scores by School type
