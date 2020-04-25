@@ -101,3 +101,7 @@ After replacing Thomas High School 9th grade reading and math scores with NaN, t
   - % Passing Math changes from 94% to 90%
   - % Passing Reading changes from 97% to 93%
   - % Overall Passing changes from 90% to 87%
+
+## Notice
+
+Some tables are not displayed correctly on GitHub. Please download the original Jupiter Notebook for correct table displays.
