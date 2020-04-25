@@ -25,6 +25,7 @@ Anaconda, Jupyter Notebook
 ## Summary
 
 The analysis include the following and results are shown in tables:
+
 - The school district's and per school key metircs include:
   - Total Student Number
   - Total School number
@@ -41,6 +42,7 @@ The analysis include the following and results are shown in tables:
 - Scores by School type
   
 ## Challenge Overview
+
 The grades of the ninth graders at Thomas High School have been changed. While administrators do not know the full extent of this academic dishonesty, they want to uphold the standards of state testing. After assessing the situation with the school superintendent and Maria, the best approach prosed is to:
 
 1. Replace the ninth-grade math and reading scores from Thomas High School with NaN.
