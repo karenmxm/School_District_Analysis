@@ -26,7 +26,7 @@ Anaconda, Jupyter Notebook
 
 The analysis include the following and results are shown in tables:
 
-- The school district's and per school key metircs include:
+- The school district's key metircs include:
   - Total Student Number
   - Total School number
   - Total Budget. 
@@ -35,6 +35,7 @@ The analysis include the following and results are shown in tables:
   - % Passing Math
   - % Passing Reading
   - % Overall Passing
+- Per School key metrics summary
 - Top five and bottom five school performence.
 - Average Math and Reading Score by Grade.
 - Scores by School Spending per student
@@ -50,4 +51,5 @@ The grades of the ninth graders at Thomas High School have been changed. While a
 3. Explain how PyCitySchools analysis changes after handling the incorrect data.
 
 ## Challenge Summary
+
 
