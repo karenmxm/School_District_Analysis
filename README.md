@@ -52,4 +52,14 @@ The grades of the ninth graders at Thomas High School have been changed. While a
 
 ## Challenge Summary
 
+After replacing Thomas High School 9th grade reading and math scores with NaN, the following results show the changes:
 
+1. District summary: 
+
+  - Average Math Score changes from 79.0 to 78.9
+  - Average reading Score is consistant at 81.9
+  - % Passing Math changes from 75% to 74%
+  - % Passing Reading changes from 86% to 85%
+  - % Overall Passing changes from 65% to 64% 
+
+2. Per School summary
