@@ -1,7 +1,9 @@
 # School_District_Analysis
 Analysis on student performence trends and patterns.
+
 ## Project Review
 
+The list of deliverables for the analysis of the school district: 
 - A high-level snapshot of the district's key metrics, presented in a table format.
 - A high-level snapshot of the district's key metrics, presented in a table format.
 - Tables presenting each of the following metrics: 
